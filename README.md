@@ -1,4 +1,4 @@
-# Olly Client
+# Nextjs Template
 
 Next.js 프로젝트를 구성하기 위한 초기 템플릿입니다.
 
